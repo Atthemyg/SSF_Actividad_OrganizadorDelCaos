@@ -24,10 +24,6 @@ limpiador.sh es un script de Bash que actúa como un "agente del caos o limpiado
  
 - Al final si hay algún archivo o carpeta vacía muestra una lista de estos y pregunta si deseas eliminarlos.
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## ACTIVIDAD 3
-
 ### segundos.sh
 
 Calcula el número de segundos totales y recibe por parámetros DIA, HORAS y SEGUNDOS.  Ejemplo: ./segundos.sh 4 2 200  ->  Debería calcular los segundos que hay en 4 días 2h y 200s.
